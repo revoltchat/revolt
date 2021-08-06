@@ -2,7 +2,9 @@
 
 This repository currently just contains github labels information.
 
-If you're looking for documentation, [it's here](https://developers.revolt.chat).
+If you're looking for documentation, [it's here](https://developers.revolt.chat). \
+To get started with development, check out [Revite](https://github.com/revoltchat/revite) (Client) or [Delta](https://github.com/revoltchat/delta) (Backend). \
+Check the [contributor guide](https://developers.revolt.chat/contributing) and the [bug tracker](https://github.com/orgs/revoltchat/projects/1).
 
 ## Issue Label Use
 
