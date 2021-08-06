@@ -1,0 +1,62 @@
+[
+    {
+        "name": "bug",
+        "color": "d73a4a"
+    },
+    {
+        "name": "document",
+        "color": "0075ca"
+    },
+    {
+        "name": "draft",
+        "color": "d93f0b"
+    },
+    {
+        "name": "duplicate",
+        "color": "cfd3d7"
+    },
+    {
+        "name": "enhancement",
+        "color": "a2eeef"
+    },
+    {
+        "name": "fluff",
+        "color": "6a5acd"
+    },
+    {
+        "name": "good first issue",
+        "color": "7057ff"
+    },
+    {
+        "name": "help wanted",
+        "color": "008672"
+    },
+    {
+        "name": "improvement",
+        "color": "ff9f19"
+    },
+    {
+        "name": "invalid",
+        "color": "e4e669"
+    },
+    {
+        "name": "needs design",
+        "color": "1d76db"
+    },
+    {
+        "name": "performance",
+        "color": "51e898"
+    },
+    {
+        "name": "privacy",
+        "color": "ff78cb"
+    },
+    {
+        "name": "question",
+        "color": "d876e3"
+    },
+    {
+        "name": "wontfix",
+        "color": "ffffff"
+    }
+]
