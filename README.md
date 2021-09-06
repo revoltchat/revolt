@@ -19,7 +19,7 @@ Repository                                                          | Descriptio
 [Desktop](https://github.com/revoltchat/desktop)                    | Revolt Desktop App
 [API Specification](https://github.com/revoltchat/api)              | Typescript typings and OpenAPI v3 generator for the Revolt API.
 [Translations](https://gitlab.insrt.uk/revolt/translations)         | Revolt translations.
-[Self Hosted](https://gitlab.insrt.uk/revolt/self-hosted)           | Deploy REVOLT using Docker.
+[Self Hosted](https://github.com/revoltchat/self-hosted)            | Deploy REVOLT using Docker.
 [Stack](https://gitlab.insrt.uk/revolt/stack)                       | Quickly deploy the entire Revolt Stack.
 
 #### Websites
