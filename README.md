@@ -19,7 +19,7 @@ Repository                                                          | Descriptio
 [Desktop](https://github.com/revoltchat/desktop)                    | Revolt Desktop App
 [API Specification](https://github.com/revoltchat/api)              | Typescript typings and OpenAPI v3 generator for the Revolt API.
 [Translations](https://gitlab.insrt.uk/revolt/translations)         | Revolt translations.
-[Self Hosted](https://gitlab.insrt.uk/revolt/self-hosted)           | Deploy REVOLT using Docker.
+[Self Hosted](https://github.com/revoltchat/self-hosted)            | Deploy REVOLT using Docker.
 [Stack](https://gitlab.insrt.uk/revolt/stack)                       | Quickly deploy the entire Revolt Stack.
 
 #### Websites
@@ -34,7 +34,7 @@ Repository                                                          | Descriptio
 
 Repository                                                          | Description
 -----------                                                         | ------------
-[Community Themes](https://gitlab.insrt.uk/revolt/community/themes) | Repository that contains community themes.
+[Community Themes](https://github.com/revoltchat/themes) | Repository that contains community themes.
 [Mutant Remix](https://gitlab.insrt.uk/revolt/mutant-remix)         | Revolt's custom emoji pack.
 [Tools](https://gitlab.insrt.uk/revolt/tools)                       | Tools that help with development or managing running instances.
 [Donations](https://gitlab.insrt.uk/revolt/donations)               | Revolt donations list.
