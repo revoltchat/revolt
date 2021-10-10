@@ -18,23 +18,24 @@ Repository                                                          | Descriptio
 [January](https://github.com/revoltchat/january)                    | Image proxy and embed generator.
 [Desktop](https://github.com/revoltchat/desktop)                    | Revolt Desktop App
 [API Specification](https://github.com/revoltchat/api)              | Typescript typings and OpenAPI v3 generator for the Revolt API.
-[Translations](https://gitlab.insrt.uk/revolt/translations)         | Revolt translations.
+[Translations](https://github.com/revoltchat/translations)          | Revolt translations.
 [Self Hosted](https://github.com/revoltchat/self-hosted)            | Deploy REVOLT using Docker.
-[Stack](https://gitlab.insrt.uk/revolt/stack)                       | Quickly deploy the entire Revolt Stack.
+[Stack](https://github.com/revoltchat/cli)                          | Quickly deploy the entire Revolt Stack.
 
 #### Websites
 
 Repository                                                          | Description
 -----------                                                         | ------------
 [Documentation](https://github.com/revoltchat/documentation)        | API documentation.
-[Landing](https://gitlab.insrt.uk/revolt/landing)                   | Revolt landing page.
-[Legal](https://gitlab.insrt.uk/revolt/legal)                       | Legal documents such as Privacy Policy and Terms of Service.
+[Landing](https://github.com/revoltchat/revolt.chat)                | Revolt landing page.
+[Legal](https://github.com/revoltchat/legal)                        | Legal documents such as Privacy Policy and Terms of Service.
 
 #### Miscellaneous
 
 Repository                                                          | Description
 -----------                                                         | ------------
-[Community Themes](https://github.com/revoltchat/themes) | Repository that contains community themes.
+[Revolt Testers](https://app.revolt.chat/invite/Testers)            | Revolt Testers server.
+[Community Themes](https://github.com/revoltchat/themes)            | Repository that contains community themes.
 [Mutant Remix](https://gitlab.insrt.uk/revolt/mutant-remix)         | Revolt's custom emoji pack.
 [Tools](https://gitlab.insrt.uk/revolt/tools)                       | Tools that help with development or managing running instances.
 [Donations](https://gitlab.insrt.uk/revolt/donations)               | Revolt donations list.
