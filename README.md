@@ -38,7 +38,6 @@ Repository                                                          | Descriptio
 [Community Themes](https://github.com/revoltchat/themes)            | Repository that contains community themes.
 [Mutant Remix](https://gitlab.insrt.uk/revolt/mutant-remix)         | Revolt's custom emoji pack.
 [Tools](https://gitlab.insrt.uk/revolt/tools)                       | Tools that help with development or managing running instances.
-[Donations](https://gitlab.insrt.uk/revolt/donations)               | Revolt donations list.
 
 ## Issue Label Use
 
