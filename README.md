@@ -58,3 +58,4 @@ performance      | Issues relating to app performance
 privacy          | Change which improves user privacy
 question         | Further information is requested
 wontfix          | This will not be worked on
+use-preview      | Create GitHub pages preview for PR

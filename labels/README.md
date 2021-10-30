@@ -1,13 +1,13 @@
 #### Issue Labels
 
-This folder contains a json file that manages the issue labels for the revoltchat organization.
+This folder contains a json file that manages the issue labels and milestones for the revoltchat organization.
 
-It is applied to our repos via [github-labels](https://github.com/popomore/github-labels).
+It is applied using Jan's GitHub sync tool.
 
 ```bash
-# Install github-labels
-$ yarn global add github-labels
+# Enter project
+cd sync
 
-# Apply labels, this assumes you have 2FA on
-$ PAT=abc ./apply.sh
+# Apply labels and milestones
+$ GITHUB_TOKEN=token CONFIG_FILE=../config.json dotnet run
 ```

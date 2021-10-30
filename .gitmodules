@@ -1,0 +1,3 @@
+[submodule "labels/sync"]
+	path = labels/sync
+	url = https://github.com/Jan0660/GitHubMilestoneSync
