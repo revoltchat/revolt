@@ -47,6 +47,21 @@
     ],
     "labels": [
       {
+        "name": "priority-1",
+        "color": "1D76DB",
+        "description": "This issue is quite important."
+      },
+      {
+        "name": "priority-0",
+        "color": "5319E7",
+        "description": "High priority task."
+      },
+      {
+        "name": "BLOCKED",
+        "color": "b60205",
+        "description": "Highest priority issue, preventing critical work."
+      },
+      {
         "name": "bug",
         "color": "d73a4a",
         "description": "Something isn't working"

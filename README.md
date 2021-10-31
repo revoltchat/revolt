@@ -43,6 +43,9 @@ Repository                                                          | Descriptio
 
 Name             | Description
 -----------------|-------------
+priority-1       | This issue is quite important.
+priority-0       | High priority task.
+BLOCKED          | Highest priority issue, preventing critical work.
 bug              | Something isn't working
 documentation    | Improvements or additions to documentation
 draft            | This issue needs more work
