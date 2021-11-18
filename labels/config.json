@@ -140,6 +140,11 @@
         "name": "use-preview",
         "color": "c5def5",
         "description": "Create GitHub pages preview for PR"
+      },
+      {
+        "name": "a11y",
+        "color": "0E8A16",
+        "description": "Issues regarding accessibility problems"
       }
     ]
   }
