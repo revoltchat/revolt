@@ -16,7 +16,8 @@
       "revoltchat/themes",
       "revoltchat/documentation",
       "revoltchat/cli",
-      "revoltchat/legal"
+      "revoltchat/legal",
+      "revoltchat/rvmob"
     ],
     "milestones": [
       {
