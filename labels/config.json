@@ -146,6 +146,11 @@
         "name": "a11y",
         "color": "0E8A16",
         "description": "Issues regarding accessibility problems"
+      },
+      {
+        "name": "meta",
+        "color": "616161",
+        "description": "Issues regarding repository maintenance"
       }
     ]
   }
