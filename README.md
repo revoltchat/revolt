@@ -54,7 +54,7 @@ enhancement      | New feature or request
 fluff            | Minor app improvement / quality of life change
 good first issue | Good for newcomers
 help wanted      | Extra attention is needed
-improvement      | Areas that can be improved in
+improvement      | Areas that can be improved on
 invalid          | This doesn't seem right
 needs design     | This issue needs a design to be implemented
 performance      | Issues relating to app performance
