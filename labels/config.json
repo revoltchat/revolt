@@ -3,6 +3,7 @@
     "repositories": [
       "revoltchat/revolt",
       "revoltchat/delta",
+      "revoltchat/bonfire",
       "revoltchat/revite",
       "revoltchat/desktop",
       "revoltchat/self-hosted",
