@@ -126,7 +126,12 @@
       {
         "name": "privacy",
         "color": "ff78cb",
-        "description": "Change which improves user privacy"
+        "description": "Changes which improve user privacy"
+      },
+      {
+        "name": "pwa",
+        "color": "f51677",
+        "description": "Issues and pull requests related to Revolt's PWA/mobile web support"
       },
       {
         "name": "question",

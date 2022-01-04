@@ -59,6 +59,7 @@ invalid          | This doesn't seem right
 needs design     | This issue needs a design to be implemented
 performance      | Issues relating to app performance
 privacy          | Change which improves user privacy
+pwa              | Issues and pull requests related to Revolt's PWA/mobile web support
 question         | Further information is requested
 wontfix          | This will not be worked on
 use-preview      | Create GitHub pages preview for PR
