@@ -18,7 +18,10 @@
       "revoltchat/documentation",
       "revoltchat/cli",
       "revoltchat/legal",
-      "revoltchat/rvmob"
+      "revoltchat/rvmob",
+      "revoltchat/quark",
+      "revoltchat/bonfire",
+      "revoltchat/components"
     ],
     "milestones": [
       {
