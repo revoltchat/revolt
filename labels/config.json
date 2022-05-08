@@ -1,32 +1,35 @@
 [
   {
     "repositories": [
-      "revoltchat/revolt",
-      "revoltchat/delta",
-      "revoltchat/bonfire",
-      "revoltchat/revite",
-      "revoltchat/desktop",
-      "revoltchat/self-hosted",
-      "revoltchat/revolt.js",
-      "revoltchat/vortex",
-      "revoltchat/autumn",
-      "revoltchat/january",
-      "revoltchat/revolt.chat",
+      "revoltchat/android-twa",
       "revoltchat/api",
-      "revoltchat/translations",
-      "revoltchat/themes",
-      "revoltchat/documentation",
-      "revoltchat/cli",
-      "revoltchat/legal",
-      "revoltchat/rvmob",
-      "revoltchat/quark",
+      "revoltchat/autumn",
       "revoltchat/bonfire",
-      "revoltchat/components"
+      "revoltchat/cli",
+      "revoltchat/components",
+      "revoltchat/delta",
+      "revoltchat/desktop",
+      "revoltchat/documentation",
+      "revoltchat/fdroid",
+      "revoltchat/january",
+      "revoltchat/legal",
+      "revoltchat/mutiny",
+      "revoltchat/quark",
+      "revoltchat/revite",
+      "revoltchat/revolt",
+      "revoltchat/revolt.chat",
+      "revoltchat/revolt.js",
+      "revoltchat/revolt.py",
+      "revoltchat/rvmob",
+      "revoltchat/self-hosted",
+      "revoltchat/themes",
+      "revoltchat/translations",
+      "revoltchat/vortex"
     ],
     "milestones": [
       {
         "title": "0.5.3: Backend Overhaul",
-        "state": "open",
+        "state": "closed",
         "description": "Improve the state of the current backend."
       },
       {
@@ -69,6 +72,11 @@
       {
         "name": "bug",
         "color": "d73a4a",
+        "description": "Something isn't working"
+      },
+      {
+        "name": "unconfirmed bug",
+        "color": "b87886",
         "description": "Something isn't working"
       },
       {
