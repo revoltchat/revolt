@@ -19,7 +19,7 @@ Repository                                                          | Descriptio
 [Desktop](https://github.com/revoltchat/desktop)                    | Revolt Desktop App
 [API Specification](https://github.com/revoltchat/api)              | Typescript typings and OpenAPI v3 generator for the Revolt API.
 [Translations](https://github.com/revoltchat/translations)          | Revolt translations.
-[Self Hosted](https://github.com/revoltchat/self-hosted)            | Deploy REVOLT using Docker.
+[Self Hosted](https://github.com/revoltchat/self-hosted)            | Deploy Revolt using Docker.
 [Stack](https://github.com/revoltchat/cli)                          | Quickly deploy the entire Revolt Stack.
 
 #### Websites
@@ -52,6 +52,7 @@ draft            | This issue needs more work
 duplicate        | This issue or pull request already exists
 enhancement      | New feature or request
 fluff            | Minor app improvement / quality of life change
+i18n             | Issues regarding translations/localisation support
 good first issue | Good for newcomers
 help wanted      | Extra attention is needed
 improvement      | Areas that can be improved on
@@ -60,5 +61,7 @@ needs design     | This issue needs a design to be implemented
 performance      | Issues relating to app performance
 privacy          | Change which improves user privacy
 question         | Further information is requested
+tech debt        | This issue or pull request is related to technical maintenance
+support          | This issue would be better suited as a support ticket
 wontfix          | This will not be worked on
 use-preview      | Create GitHub pages preview for PR

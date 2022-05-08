@@ -137,19 +137,29 @@
         "description": "Further information is requested"
       },
       {
+        "name": "tech debt",
+        "color": "68bda3",
+        "description": "This issue or pull request is related to technical maintenance"
+      },
+      {
+        "name": "support",
+        "color": "a9cadb",
+        "description": "This issue would be better suited as a support ticket"
+      },
+      {
         "name": "wontfix",
         "color": "ffffff",
         "description": "This will not be worked on"
       },
       {
-        "name": "use-preview",
-        "color": "c5def5",
-        "description": "Create GitHub pages preview for PR"
-      },
-      {
         "name": "a11y",
         "color": "0E8A16",
         "description": "Issues regarding accessibility problems"
+      },
+      {
+        "name": "i18n",
+        "color": "5d0f99",
+        "description": "Issues regarding translations/localisation support"
       },
       {
         "name": "meta",
