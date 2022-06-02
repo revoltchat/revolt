@@ -11,7 +11,7 @@ Check the [contributor guide](https://developers.revolt.chat/contributing) and t
 Repository                                                          | Description
 -----------                                                         | ------------
 [Revite](https://github.com/revoltchat/revite)                      | Revolt client built with Preact.
-[Delta](https://github.com/revoltchat/delta)                        | Revolt backend API server, built with Rust.
+[Backend](https://github.com/revoltchat/backend)                        | Revolt backend monorepo, build with Rust.
 [Vortex](https://github.com/revoltchat/vortex)                      | Revolt voice server
 [Revolt.js](https://github.com/revoltchat/revolt.js)                | Modern Typescript library for interacting with Revolt.
 [Autumn](https://github.com/revoltchat/autumn)                      | File server micro-service.
