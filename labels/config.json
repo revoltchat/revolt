@@ -15,6 +15,7 @@
       "revoltchat/legal",
       "revoltchat/mutiny",
       "revoltchat/revite",
+      "revoltchat/revoltchat-solid-client-repo",
       "revoltchat/revolt",
       "revoltchat/revolt.chat",
       "revoltchat/revolt.js",
@@ -24,6 +25,9 @@
       "revoltchat/themes",
       "revoltchat/translations",
       "revoltchat/vortex"
+    ],
+    "excludeFromMilestoneSync": [
+      "revoltchat/revoltchat-solid-client-repo"
     ],
     "milestones": [
       {
