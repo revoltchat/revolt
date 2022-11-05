@@ -11,16 +11,17 @@ Check the [contributor guide](https://developers.revolt.chat/contributing) and t
 Repository                                                          | Description
 -----------                                                         | ------------
 [Revite](https://github.com/revoltchat/revite)                      | Revolt client built with Preact.
-[Backend](https://github.com/revoltchat/backend)                        | Revolt backend monorepo, build with Rust.
-[Vortex](https://github.com/revoltchat/vortex)                      | Revolt voice server
+[Unnamed Solid Client](https://github.com/revoltchat/revoltchat-solid-client-repo) | Rewrite of Revite built with Solid.js.
+[Backend](https://github.com/revoltchat/backend)                    | Revolt backend monorepo built with Rust.
+[Vortex](https://github.com/revoltchat/vortex)                      | Revolt voice server.
 [Revolt.js](https://github.com/revoltchat/revolt.js)                | Modern Typescript library for interacting with Revolt.
 [Autumn](https://github.com/revoltchat/autumn)                      | File server micro-service.
 [January](https://github.com/revoltchat/january)                    | Image proxy and embed generator.
-[Desktop](https://github.com/revoltchat/desktop)                    | Revolt Desktop App
+[Desktop](https://github.com/revoltchat/desktop)                    | Revolt's desktop app.
 [API Specification](https://github.com/revoltchat/api)              | Typescript typings and OpenAPI v3 generator for the Revolt API.
 [Translations](https://github.com/revoltchat/translations)          | Revolt translations.
 [Self Hosted](https://github.com/revoltchat/self-hosted)            | Deploy Revolt using Docker.
-[Stack](https://github.com/revoltchat/cli)                          | Quickly deploy the entire Revolt Stack.
+[Stack](https://github.com/revoltchat/cli)                          | Quickly deploy the entire Revolt stack.
 
 #### Websites
 
@@ -28,13 +29,13 @@ Repository                                                          | Descriptio
 -----------                                                         | ------------
 [Documentation](https://github.com/revoltchat/documentation)        | API documentation.
 [Landing](https://github.com/revoltchat/revolt.chat)                | Revolt landing page.
-[Legal](https://github.com/revoltchat/legal)                        | Legal documents such as Privacy Policy and Terms of Service.
+[Legal](https://github.com/revoltchat/legal)                        | Legal documents such as our Privacy Policy and Terms of Service.
 
 #### Miscellaneous
 
 Repository                                                          | Description
 -----------                                                         | ------------
-[Revolt Testers](https://app.revolt.chat/invite/Testers)            | Revolt Testers server.
+[Revolt Lounge](https://app.revolt.chat/invite/Testers)             | Revolt's official Revolt server.
 [Community Themes](https://github.com/revoltchat/themes)            | Repository that contains community themes.
 [Mutant Remix](https://gitlab.insrt.uk/revolt/mutant-remix)         | Revolt's custom emoji pack.
 [Tools](https://gitlab.insrt.uk/revolt/tools)                       | Tools that help with development or managing running instances.
