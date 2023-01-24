@@ -1,4 +1,4 @@
-# Revolt
+# Revolt test
 
 This repository is used [for discussions](https://github.com/revoltchat/revolt/discussions) (feature suggestions, questions and any general talk) and also contains information for GitHub labels.
 
