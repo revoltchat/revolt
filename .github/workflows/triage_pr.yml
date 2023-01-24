@@ -15,7 +15,7 @@ jobs:
           gh api graphql -f query='
             query {
               organization(login: "revoltchat"){
-                projectNext(number: 3) {
+                projectV2(number: 3) {
                   id
                   fields(first:20) {
                     ... on ProjectV2SingleSelectField {
