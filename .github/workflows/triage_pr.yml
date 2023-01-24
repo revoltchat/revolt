@@ -18,12 +18,14 @@ jobs:
                 projectV2(number: 3) {
                   id
                   fields(first:20) {
-                    ... on ProjectV2SingleSelectField {
-                      id
-                      name
-                      options {
+                    nodes {
+                      ... on ProjectV2SingleSelectField {
                         id
                         name
+                        options {
+                          id
+                          name
+                        }
                       }
                     }
                   }
