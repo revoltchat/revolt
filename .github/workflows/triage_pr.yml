@@ -66,7 +66,9 @@ jobs:
                 projectId: $project
                 itemId: $item
                 fieldId: $status_field
-                value: $status_value
+                value: {
+                  text: $status_value
+                }
               }) {
                 projectV2Item {
                   id
